@@ -68,8 +68,8 @@ button{
     letter-spacing: 0.04em;
     color: #fff;
 }
- .button-name:hover, .button-name:focus {
-    color: #404BBF;
+ .button:hover, .button:focus {
+    background-color: #404BBF;
  }
 
 .advantages-title {
