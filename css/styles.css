@@ -9,9 +9,7 @@ ul, ol {
 a {
     text-decoration: none;
 }
-button{
-    cursor: pointer;
-}
+
 .logo{
     font-family: "Raleway", sans-serif;
     font-weight: 700;
@@ -58,16 +56,15 @@ button{
 }
 .button{
     background-color: #4d5ae5;
-}
-
-.button-name {
     font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: #fff;
+    cursor: pointer;
 }
+
  .button:hover, .button:focus {
     background-color: #404BBF;
  }
